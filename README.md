@@ -15,3 +15,5 @@ The following guidelines apply to eo4geo partners who contribute training materi
 * In case of any confusion or problems with GitHub, feel free to contact simon.donike@sbg.ac.at
 
 
+
+
