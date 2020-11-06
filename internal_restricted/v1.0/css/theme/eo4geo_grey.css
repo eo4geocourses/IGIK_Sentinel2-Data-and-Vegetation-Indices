@@ -66,7 +66,7 @@ body {
   font-size: 24px;
   font-weight: normal;
   color: #c7bab9; 
-  overflow: auto;
+  /*overflow: auto;*/
   text-align: left;
   }
   
